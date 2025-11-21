@@ -1,6 +1,6 @@
 # safest_paths_data
 
-This repository contains network files, PSRLG data to the Hardness Results and an Efficient Heuristic for Safest Path Computation under Correlated Failures in Real-World and Synthetic Backbone Networks article.
+This repository contains network files, PSRLG data to the *Hardness Results and an Efficient Heuristic for Safest Path Computation under Correlated Failures in Real-World and Synthetic Backbone Networks* article.
 
 ## Contents
 
