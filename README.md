@@ -1,15 +1,15 @@
 # safest_paths_data
 
-This repository contains network files, disaster data to the Hardness Results and an Efficient Heuristic for Safest Path Computation under Correlated Failures in Real-World and Synthetic Backbone Networks article.
+This repository contains network files, PSRLG data to the Hardness Results and an Efficient Heuristic for Safest Path Computation under Correlated Failures in Real-World and Synthetic Backbone Networks article.
 
 ## Contents
 
-- **Network Files**: Contains the network models used in the simulations, including both communication and power networks.
-- **Disaster Data**: Includes real disaster data, particularly earthquakes, used for evaluating the models and methods.
+- **Network Files**: Contains all of the networks used in the simulations, including both real-world and synthetic networks.
+- **PSRLG Data**: Includes the PSRLG data for all networks.
 
 ## References
 
-- **Research Paper**: "Hardness Results and an Efficient Heuristic for Safest Path Computation under Correlated Failures in Real-World and Synthetic Backbone Networks" by Balázs Vass, Péter Revisnyei, and Alija Pašić, Department of Telecommunications and Media Informatics, Budapest University of Technology and Economics.
+- **Research Paper**: "Hardness Results and an Efficient Heuristic for Safest Path Computation under Correlated Failures in Real-World and Synthetic Backbone Networks" by Balázs Vass, Péter Revisnyei, and Alija Pašić.
 
 ## Contact
 

@@ -1,0 +1,12531 @@
+<simulation>
+<NetName>
+	test
+</NetName>
+<log_type>
+	complete
+</log_type>
+<spherical>
+	1
+</spherical>
+<log_size>
+	943
+</log_size>
+<PSRLGList>	
+	<PSRLG>
+		<Edges>
+		
+		</Edges>
+		<EdgeNum>
+			0
+		</EdgeNum>
+		<Probability>
+			1.8362105254194383
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.004085022006706456
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.005914232146431929
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			3:(2, 6)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00044937741930034736
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			3:(2, 6)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0016582112668835117
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.00627700635989971
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0077695415902291195
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			5:(4, 12)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0016204015124926952
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			6:(5, 11)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0021151502493485744
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			6:(5, 11)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.008486540825204069
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0034490400190363146
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			8:(8, 12)
+			9:(8, 15)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0016508764220291815
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			8:(8, 12)
+			9:(8, 15)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0018250012355772469
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			9:(8, 15)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.001656723710412744
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.006285938568972287
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			8:(8, 12)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0016582731559141371
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			8:(8, 12)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.004331289751574845
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.001613486352517147
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			10:(9, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0008702986333225258
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0028419809524888747
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			11:(10, 18)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0015700233805147651
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			11:(10, 18)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0016389989831770025
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			11:(10, 18)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.001571097506734505
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.006784252840810057
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			5:(4, 12)
+			8:(8, 12)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0005616207418452784
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			6:(5, 11)
+			12:(11, 14)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00020715309320795986
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			6:(5, 11)
+			12:(11, 14)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0030317869154728927
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			12:(11, 14)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00020715309320795986
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.011689960440674732
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			5:(4, 12)
+			8:(8, 12)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.392431726934409e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			5:(4, 12)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.392431726934409e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			5:(4, 12)
+			8:(8, 12)
+			9:(8, 15)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.3409346371436683e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			5:(4, 12)
+			8:(8, 12)
+			9:(8, 15)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.469666656145082e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			5:(4, 12)
+			9:(8, 15)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.3409346371436683e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			5:(4, 12)
+			9:(8, 15)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			3.469666656145082e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			6:(5, 11)
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			6:(5, 11)
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			4.838026488757988e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0026425774535243827
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			6:(5, 11)
+			16:(14, 16)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			6:(5, 11)
+			16:(14, 16)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			4.838026488757988e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			16:(14, 16)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.002663907662173021
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			6:(5, 11)
+			12:(11, 14)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			6:(5, 11)
+			12:(11, 14)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			4.84891737091176e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			12:(11, 14)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.002923864201655761
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			6:(5, 11)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			6:(5, 11)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			4.84891737091176e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.009021974931859245
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			6:(5, 11)
+			12:(11, 14)
+			16:(14, 16)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			6:(5, 11)
+			12:(11, 14)
+			16:(14, 16)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			4.838026488757988e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			12:(11, 14)
+			16:(14, 16)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0026451750215567304
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			6:(5, 11)
+			16:(14, 16)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			6:(5, 11)
+			16:(14, 16)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			4.838026488757988e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			2:(2, 5)
+			16:(14, 16)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.809489732872403e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.009460544265332447
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			9:(8, 15)
+			10:(9, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.6596969144424856e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			10:(9, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.450596011574776e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			9:(8, 15)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.6596969144424856e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			5:(4, 12)
+			8:(8, 12)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0004908373684222746
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			8:(8, 12)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0004908373684222746
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			5:(4, 12)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0004953677209228208
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0016773129699994586
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			14:(13, 17)
+			15:(13, 20)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00040965631890999514
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0015463472226440065
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			14:(13, 17)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.002102457250663182
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			5:(4, 12)
+			8:(8, 12)
+			9:(8, 15)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			6.079614725554267e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			5:(4, 12)
+			8:(8, 12)
+			9:(8, 15)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.6125540933468876e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			8:(8, 12)
+			9:(8, 15)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			6.079614725554267e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			8:(8, 12)
+			9:(8, 15)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.6125540933468876e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			5:(4, 12)
+			9:(8, 15)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			6.079614725554267e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			5:(4, 12)
+			9:(8, 15)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.6125540933468876e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			9:(8, 15)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			6.079614725554267e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.6125540933468876e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			5:(4, 12)
+			8:(8, 12)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			6.079614725554267e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			8:(8, 12)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			6.079614725554267e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			5:(4, 12)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			6.079614725554267e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			13:(12, 24)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			6.079614725554267e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0025240691261308075
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.002587054502780918
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0029357669784227875
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.012093715807958835
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0025240691261308075
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.009218722257069788
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			14:(13, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0008989432054805588
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			0.00015088356103042566
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00015183536774051074
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00015088356103042566
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00015183536774051074
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00015088356103042566
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00015088356103042566
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.0001692877756692553
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00017222640230612227
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0001692877756692553
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00017336809273824622
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0001692877756692553
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			21:(16, 26)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0001692877756692553
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00015088356103042566
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00015183536774051074
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00015088356103042566
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00015183536774051074
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00015088356103042566
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00015088356103042566
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			10:(9, 17)
+			14:(13, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.048719646902967e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			14:(13, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			9.048719646902967e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			14:(13, 17)
+			15:(13, 20)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.497917833074863e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			15:(13, 20)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.497917833074863e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			9:(8, 15)
+			10:(9, 17)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			4.882680472878218e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			10:(9, 17)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.3241138020836965e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			10:(9, 17)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2651383443080884e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0009542240626057685
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			9:(8, 15)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			4.882680472878218e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0014922829693895761
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.2651383443080884e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.005095226289609092
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0014570214311228156
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0014857796339119696
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.001477057583636252
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0064709905111559555
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			8:(8, 12)
+			9:(8, 15)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			8:(8, 12)
+			9:(8, 15)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.709791535575534e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			9:(8, 15)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			8:(8, 12)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			8:(8, 12)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.709791535575534e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			8:(8, 12)
+			9:(8, 15)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			8:(8, 12)
+			9:(8, 15)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.008302282121088e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			9:(8, 15)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			8:(8, 12)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			8:(8, 12)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			3.008302282121088e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			8:(8, 12)
+			9:(8, 15)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			8:(8, 12)
+			9:(8, 15)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.709791535575534e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			9:(8, 15)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			8:(8, 12)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			8:(8, 12)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.709791535575534e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			1:(1, 8)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.101377168180761e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			10:(9, 17)
+			14:(13, 17)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			7.101220458123068e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			14:(13, 17)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0008536256975636828
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			0:(0, 9)
+			14:(13, 17)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			7.101220458123068e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			14:(13, 17)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0008536256975636828
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.24730245746664e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			11:(10, 18)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2392156107489785e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0019661851974432133
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			11:(10, 18)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0831691717715786e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			11:(10, 18)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0831691717715786e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0831691717715786e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.0831691717715786e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			10:(9, 17)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.1727646768398364e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.1727646768398364e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			10:(9, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.1727646768398364e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.1727646768398364e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.0644169770191203e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.0018730527123492157
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0644169770191203e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0018749682548270558
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			11:(10, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			11:(10, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0644169770191203e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			11:(10, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0018730527123492157
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0644169770191203e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.002031302901191785
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			11:(10, 18)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			11:(10, 18)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0644169770191203e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			11:(10, 18)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0018730527123492157
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0644169770191203e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.002108781933522298
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			11:(10, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			11:(10, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0644169770191203e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			11:(10, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0018730527123492157
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.0644169770191203e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.006468233393708099
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0644169770191203e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0018730527123492157
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			20:(16, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			20:(16, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0644169770191203e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			20:(16, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.024085977150078e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0018749682548270558
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			11:(10, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0588840360295961e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			11:(10, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0992150358986386e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			11:(10, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0588840360295961e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.001953552115645426
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			7:(7, 10)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0588840360295961e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			7:(7, 10)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.0992150358986386e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			4:(3, 10)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.0588840360295961e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.005214766033415804
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			14:(13, 17)
+			15:(13, 20)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.5199455364199283e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			14:(13, 17)
+			15:(13, 20)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.5199455364199283e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			15:(13, 20)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.5199455364199283e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.5199455364199283e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			24:(19, 21)
+			25:(19, 22)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.001581765727765635
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.007863289305463777
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			24:(19, 21)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.006872450780344206
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			10:(9, 17)
+			14:(13, 17)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			14:(13, 17)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			14:(13, 17)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			14:(13, 17)
+			18:(15, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			10:(9, 17)
+			14:(13, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			10:(9, 17)
+			14:(13, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			14:(13, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			14:(13, 17)
+			19:(15, 23)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			10:(9, 17)
+			14:(13, 17)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			14:(13, 17)
+			18:(15, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			10:(9, 17)
+			14:(13, 17)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			14:(13, 17)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			7.57984983007386e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0003824085593980578
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			22:(18, 20)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0003712141225362355
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			22:(18, 20)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0003972652788947625
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0003718835171471517
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0007513486985138854
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.785644733160711e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			9.785644733160711e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			22:(18, 20)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.746129855896375e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			22:(18, 20)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.00737750649568e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.746129855896375e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.00737750649568e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			9.917686175874775e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.917686175874775e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			22:(18, 20)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			22:(18, 20)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.1649068461054007e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			22:(18, 20)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.917686175874775e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			22:(18, 20)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4248913607203263e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			20:(16, 18)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			20:(16, 18)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.917686175874775e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.917686175874775e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.1649068461054007e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.917686175874775e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.6195847824426045e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			20:(16, 18)
+			22:(18, 20)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			20:(16, 18)
+			22:(18, 20)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.917686175874775e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			22:(18, 20)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.917686175874775e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			20:(16, 18)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			20:(16, 18)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.917686175874775e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			26:(20, 30)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			9.917686175874775e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			22:(18, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.1649068461054007e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.1649068461054007e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			20:(16, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			20:(16, 18)
+			22:(18, 20)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			15:(13, 20)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			15:(13, 20)
+			20:(16, 18)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			9.59004096681435e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.5130073908353822e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.5425770050683973e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.5130073908353822e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.546433699226996e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.5130073908353822e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.5130073908353822e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			24:(19, 21)
+			27:(21, 29)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0009650068614597094
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0017735872539784469
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0007464561147589781
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			28:(22, 27)
+			29:(22, 31)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.0007207345355396025
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			28:(22, 27)
+			29:(22, 31)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0007321538178435223
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			28:(22, 27)
+			29:(22, 31)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0007207345355396025
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			29:(22, 31)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0007596758112170163
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			29:(22, 31)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0007207345355396025
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			29:(22, 31)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0007321538178435223
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			29:(22, 31)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0007247093133496629
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			29:(22, 31)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0010826879710266741
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			28:(22, 27)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0007212860144124695
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			28:(22, 27)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0009360104314327875
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			28:(22, 27)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0007212860144124695
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0014432797698135107
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			30:(23, 28)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00167328292894022
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0016806627986563156
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0016993182090869737
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.005007455749562779
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			30:(23, 28)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0017730308956389166
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.008521348799086025
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			13:(12, 24)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0001273499481411662
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			18:(15, 17)
+			19:(15, 23)
+			30:(23, 28)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			18:(15, 17)
+			19:(15, 23)
+			30:(23, 28)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			19:(15, 23)
+			30:(23, 28)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			18:(15, 17)
+			30:(23, 28)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			18:(15, 17)
+			30:(23, 28)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			30:(23, 28)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			18:(15, 17)
+			19:(15, 23)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			18:(15, 17)
+			19:(15, 23)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			19:(15, 23)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			18:(15, 17)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			18:(15, 17)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			31:(23, 24)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.6427440953105466e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			18:(15, 17)
+			19:(15, 23)
+			30:(23, 28)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.8918296851469797e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			18:(15, 17)
+			19:(15, 23)
+			30:(23, 28)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.8918296851469797e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			19:(15, 23)
+			30:(23, 28)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.8918296851469797e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			18:(15, 17)
+			30:(23, 28)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.8918296851469797e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			18:(15, 17)
+			30:(23, 28)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.8918296851469797e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			9:(8, 15)
+			30:(23, 28)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.8918296851469797e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			0.00013072758140566788
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			0.00013167938811575297
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			0.00013072758140566788
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00013167938811575297
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			0.00013072758140566788
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00023221269822308293
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00013072758140566788
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00023221269822308293
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			0.0001315833313199813
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.0001332879330792863
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.0001315833313199813
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0001332879330792863
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.0001315833313199813
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.000265399570714596
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0001315833313199813
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.001901777407062067
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			0.00013072758140566788
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00013167938811575297
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00013072758140566788
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00013167938811575297
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00013072758140566788
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00023221269822308293
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00013072758140566788
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00023221269822308293
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.0001315833313199813
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0001332879330792863
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0001315833313199813
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0001332879330792863
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0001315833313199813
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.000265399570714596
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0001315833313199813
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.005297848269445901
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			2.0189426139685177e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			22:(18, 20)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.0373310205990482e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			22:(18, 20)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.0189426139685177e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			22:(18, 20)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.4467055507561697e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.0189426139685177e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			4.897201331974935e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.0189426139685177e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0013811739006962882
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			22:(18, 20)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.0189426139685177e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			22:(18, 20)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.0373310205990482e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			22:(18, 20)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.0189426139685177e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			22:(18, 20)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.4467055507561697e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			20:(16, 18)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.0189426139685177e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			4.897201331974935e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			11:(10, 18)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.0189426139685177e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.00407665204501551
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			8
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			7
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			7
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			7
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			7
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			7
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			7
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			32:(25, 32)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			7
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			33:(26, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			7
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			23:(18, 25)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			20:(16, 18)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			20:(16, 18)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.444326276732003e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			21:(16, 26)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			20:(16, 18)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			17:(14, 22)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			16:(14, 16)
+			17:(14, 22)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			17:(14, 22)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			16:(14, 16)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			12:(11, 14)
+			23:(18, 25)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.4673777840724355e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			24:(19, 21)
+			25:(19, 22)
+			27:(21, 29)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.409890125796518e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			27:(21, 29)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.409890125796518e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			28:(22, 27)
+			34:(27, 29)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			7.423324456587707e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			34:(27, 29)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00010625291713140305
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			34:(27, 29)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			7.876100122937195e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			34:(27, 29)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.00044375679071810147
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			22:(18, 20)
+			23:(18, 25)
+			26:(20, 30)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.1112402761918402e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			26:(20, 30)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.6681696830717162e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			22:(18, 20)
+			26:(20, 30)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.1112402761918402e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			32:(25, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			4.044960638343329e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			35:(28, 33)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.002080765441790483
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.002109447607234349
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0020809438926428156
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0077666893196109916
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			35:(28, 33)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0024325883367302737
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.008494434373128945
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			34:(27, 29)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			5.636163759263052e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			30:(23, 28)
+			35:(28, 33)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			3.2932384371697806e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			35:(28, 33)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.2932384371697806e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			30:(23, 28)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.2932384371697806e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			3.2932384371697806e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			30:(23, 28)
+			35:(28, 33)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4888239328726683e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			35:(28, 33)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.4888239328726683e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			30:(23, 28)
+			31:(23, 24)
+			35:(28, 33)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			2.847146448688233e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			31:(23, 24)
+			35:(28, 33)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.847146448688233e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			31:(23, 24)
+			35:(28, 33)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.847146448688233e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			31:(23, 24)
+			35:(28, 33)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.847146448688233e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			30:(23, 28)
+			31:(23, 24)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.847146448688233e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			31:(23, 24)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.847146448688233e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			31:(23, 24)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.847146448688233e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			31:(23, 24)
+			36:(28, 34)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.847146448688233e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			30:(23, 28)
+			31:(23, 24)
+			35:(28, 33)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4442147340245133e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			31:(23, 24)
+			35:(28, 33)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.461454093390682e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			19:(15, 23)
+			31:(23, 24)
+			35:(28, 33)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4442147340245133e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			31:(23, 24)
+			35:(28, 33)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.4656727885199878e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			34:(27, 29)
+			37:(29, 37)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			5.204626383202312e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			34:(27, 29)
+			37:(29, 37)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			5.208254014791619e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			37:(29, 37)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			5.204626383202312e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			37:(29, 37)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			5.24591585338133e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			34:(27, 29)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			5.204626383202312e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			34:(27, 29)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			5.663523612059805e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			5.204626383202312e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			7.653836546104244e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			34:(27, 29)
+			37:(29, 37)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			5.204626383202312e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			34:(27, 29)
+			37:(29, 37)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			5.208254014791619e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			37:(29, 37)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			5.2246732611976646e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			37:(29, 37)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			5.279158815810471e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			39:(30, 32)
+			40:(30, 35)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			9.380712648005532e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			39:(30, 32)
+			40:(30, 35)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			9.380988241182382e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			40:(30, 35)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			9.987923915946461e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0001774041402382496
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			39:(30, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			9.63860051991828e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			39:(30, 32)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0008714765623243913
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			28:(22, 27)
+			29:(22, 31)
+			34:(27, 29)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.4810846564542099e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			29:(22, 31)
+			34:(27, 29)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.4040239124901244e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			29:(22, 31)
+			34:(27, 29)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.4810846564542099e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			29:(22, 31)
+			34:(27, 29)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.4040239124901244e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			28:(22, 27)
+			34:(27, 29)
+			37:(29, 37)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			34:(27, 29)
+			37:(29, 37)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			28:(22, 27)
+			37:(29, 37)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			37:(29, 37)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			28:(22, 27)
+			34:(27, 29)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			34:(27, 29)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			28:(22, 27)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			38:(29, 39)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			28:(22, 27)
+			34:(27, 29)
+			37:(29, 37)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			34:(27, 29)
+			37:(29, 37)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			28:(22, 27)
+			37:(29, 37)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			37:(29, 37)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			28:(22, 27)
+			34:(27, 29)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			27:(21, 29)
+			28:(22, 27)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.8614182073828843e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			26:(20, 30)
+			32:(25, 32)
+			39:(30, 32)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0970074681407682e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			32:(25, 32)
+			39:(30, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.2601142555564802e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			32:(25, 32)
+			39:(30, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.7832698692023557e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			32:(25, 32)
+			39:(30, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0003972355360824561
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			26:(20, 30)
+			39:(30, 32)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0970074681407682e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			39:(30, 32)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.7832698692023557e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			32:(25, 32)
+			39:(30, 32)
+			40:(30, 35)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.9001164436083544e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			32:(25, 32)
+			39:(30, 32)
+			40:(30, 35)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.9001164436083544e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			32:(25, 32)
+			40:(30, 35)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.9001164436083544e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			32:(25, 32)
+			40:(30, 35)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.9001164436083544e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			28:(22, 27)
+			29:(22, 31)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			28:(22, 27)
+			29:(22, 31)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			28:(22, 27)
+			29:(22, 31)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			29:(22, 31)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.0442246862052073e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			29:(22, 31)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			29:(22, 31)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			29:(22, 31)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			29:(22, 31)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			8.020742487651061e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			28:(22, 27)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			28:(22, 27)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			28:(22, 27)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.0442246862052073e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			8.044398316941502e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			28:(22, 27)
+			29:(22, 31)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			28:(22, 27)
+			29:(22, 31)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			28:(22, 27)
+			29:(22, 31)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			29:(22, 31)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.0442246862052073e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			29:(22, 31)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			29:(22, 31)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			29:(22, 31)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			29:(22, 31)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			8.020742487651061e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			28:(22, 27)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			28:(22, 27)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			28:(22, 27)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.0442246862052073e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			42:(31, 39)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			1.848726454520336e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			28:(22, 27)
+			29:(22, 31)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			28:(22, 27)
+			29:(22, 31)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			28:(22, 27)
+			29:(22, 31)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			29:(22, 31)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.0442246862052073e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			29:(22, 31)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			29:(22, 31)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			29:(22, 31)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			29:(22, 31)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.0326951772627124e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			28:(22, 27)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			28:(22, 27)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			28:(22, 27)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			28:(22, 27)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.0442246862052073e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			25:(19, 22)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			25:(19, 22)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			17:(14, 22)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.0203355252203836e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0007424229895125301
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			32:(25, 32)
+			39:(30, 32)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			6.205979554845036e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			32:(25, 32)
+			39:(30, 32)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0003250782285690333
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			39:(30, 32)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			6.205979554845036e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			39:(30, 32)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0003250782285690333
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			32:(25, 32)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			6.205979554845036e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			32:(25, 32)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00035563151385016486
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			23:(18, 25)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			6.205979554845036e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.003027508805495303
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			35:(28, 33)
+			44:(33, 41)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			7.658348629372355e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			44:(33, 41)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.001709123759352253
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			44:(33, 41)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			7.658348629372355e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.003741898152110046
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			45:(34, 35)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0014097250408227357
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			45:(34, 35)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0007646111057508944
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			45:(34, 35)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0007638200965470425
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			45:(34, 35)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0007678035550880966
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0009999554965983055
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.00407699411387823
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00043209173501758695
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0005753260568500408
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			45:(34, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			6.0715704404967173e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			45:(34, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			7.09356815738878e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			6.082866458741874e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0005150583975261203
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			45:(34, 35)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			6.0771819887136446e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			33:(26, 36)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.7403351078714986e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			3.7403351078714986e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			40:(30, 35)
+			45:(34, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.5809391051119343e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			45:(34, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.5809391051119343e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			40:(30, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.5809391051119343e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.5809391051119343e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			40:(30, 35)
+			45:(34, 35)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.5809391051119343e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			45:(34, 35)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.5809391051119343e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			39:(30, 32)
+			40:(30, 35)
+			45:(34, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			39:(30, 32)
+			40:(30, 35)
+			45:(34, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			39:(30, 32)
+			45:(34, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			39:(30, 32)
+			45:(34, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			39:(30, 32)
+			40:(30, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			39:(30, 32)
+			40:(30, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			39:(30, 32)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			39:(30, 32)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			39:(30, 32)
+			40:(30, 35)
+			45:(34, 35)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			39:(30, 32)
+			40:(30, 35)
+			45:(34, 35)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			39:(30, 32)
+			45:(34, 35)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			39:(30, 32)
+			45:(34, 35)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			8.087933262339346e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			35:(28, 33)
+			36:(28, 34)
+			44:(33, 41)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.14512608500495e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			36:(28, 34)
+			44:(33, 41)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.14512608500495e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			36:(28, 34)
+			44:(33, 41)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.14512608500495e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			44:(33, 41)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.14512608500495e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			32:(25, 32)
+			39:(30, 32)
+			40:(30, 35)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			32:(25, 32)
+			39:(30, 32)
+			40:(30, 35)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			39:(30, 32)
+			40:(30, 35)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			39:(30, 32)
+			40:(30, 35)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			32:(25, 32)
+			40:(30, 35)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			32:(25, 32)
+			40:(30, 35)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			40:(30, 35)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			32:(25, 32)
+			39:(30, 32)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			39:(30, 32)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			32:(25, 32)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			26:(20, 30)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			3.261072040258202e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			33:(26, 36)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.63869200611429e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			41:(31, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			3.63869200611429e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00040251460427028456
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00040251460427028456
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.000405297635465084
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0004370466179253623
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00040251460427028456
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00040547066831962794
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.000405297635465084
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.001054174903612569
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00040397347436782905
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00040397347436782905
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			2.734087430535702e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.734087430535702e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			33:(26, 36)
+			43:(32, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.734087430535702e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			43:(32, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.734087430535702e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			33:(26, 36)
+			41:(31, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.734087430535702e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			41:(31, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.734087430535702e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			33:(26, 36)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.734087430535702e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			48:(36, 44)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.734087430535702e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			3.0659857211141343e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			21:(16, 26)
+			41:(31, 36)
+			43:(32, 36)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.0659857211141343e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			40:(30, 35)
+			45:(34, 35)
+			46:(34, 40)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			45:(34, 35)
+			46:(34, 40)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			45:(34, 35)
+			46:(34, 40)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			6.553462603676247e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			45:(34, 35)
+			46:(34, 40)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			6.553462603676247e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			40:(30, 35)
+			46:(34, 40)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			46:(34, 40)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			46:(34, 40)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			6.553462603676247e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			46:(34, 40)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			6.553462603676247e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			40:(30, 35)
+			45:(34, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			45:(34, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			6.553462603676247e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			40:(30, 35)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			47:(35, 43)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			6.553462603676247e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			40:(30, 35)
+			45:(34, 35)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			45:(34, 35)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			40:(30, 35)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			40:(30, 35)
+			45:(34, 35)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			40:(30, 35)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			5.78996253048662e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			35:(28, 33)
+			36:(28, 34)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.337822284225474e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			36:(28, 34)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.337822284225474e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			36:(28, 34)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.337822284225474e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			35:(28, 33)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.337822284225474e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.337822284225474e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			30:(23, 28)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.337822284225474e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			49:(38, 42)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.00036495561408810353
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			46:(34, 40)
+			51:(40, 41)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.000568121144266382
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			51:(40, 41)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0005741192749329216
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			46:(34, 40)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0005843716945657372
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0013537976309497559
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			46:(34, 40)
+			51:(40, 41)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0005701694525342171
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			51:(40, 41)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0020265391322047757
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			46:(34, 40)
+			51:(40, 41)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.202795981204389e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			51:(40, 41)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.202795981204389e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			46:(34, 40)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.202795981204389e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.202795981204389e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			46:(34, 40)
+			51:(40, 41)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.202795981204389e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			36:(28, 34)
+			51:(40, 41)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.202795981204389e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			51:(40, 41)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			6.960727302059476e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			44:(33, 41)
+			51:(40, 41)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			6.783167363827904e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			51:(40, 41)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0004584072627602378
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			44:(33, 41)
+			51:(40, 41)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.718472667920251e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			51:(40, 41)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.0003902425638684627
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			51:(40, 41)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.718472667920251e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			51:(40, 41)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0003902425638684627
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			44:(33, 41)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.9779500663918925e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00040848353211813597
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			35:(28, 33)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.9779500663918925e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.0010661458162211422
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			49:(38, 42)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00018616402531310098
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			49:(38, 42)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.996936606954824e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			49:(38, 42)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			3.996936606954824e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			47:(35, 43)
+			54:(43, 46)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00030744814893868396
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			54:(43, 46)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.001166874198265261
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			49:(38, 42)
+			51:(40, 41)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			3.7065471554758704e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			49:(38, 42)
+			51:(40, 41)
+			53:(41, 42)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.7065471554758704e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			49:(38, 42)
+			51:(40, 41)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			3.7065471554758704e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			49:(38, 42)
+			51:(40, 41)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			3.7065471554758704e-06
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			45:(34, 35)
+			47:(35, 43)
+			54:(43, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.1425824046480335e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			45:(34, 35)
+			54:(43, 46)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.1425824046480335e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			45:(34, 35)
+			47:(35, 43)
+			54:(43, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			8.186056768222458e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			47:(35, 43)
+			54:(43, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			8.186056768222458e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			45:(34, 35)
+			54:(43, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			8.186056768222458e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			40:(30, 35)
+			54:(43, 46)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			8.186056768222458e-09
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			0.00012462301707143476
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00012498038398548828
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			48:(36, 44)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			48:(36, 44)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00012462301707143476
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00012498038398548828
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			48:(36, 44)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00012462301707143476
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00013147460252312056
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			48:(36, 44)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			48:(36, 44)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00012494212961686315
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.00036314886861631515
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			0.00012492768367957643
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0001817225523463321
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			48:(36, 44)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			5.705397296684485e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			48:(36, 44)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0001367009642092412
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			5.705397296684485e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.004363428441902766
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			48:(36, 44)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00012492768367957643
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			43:(32, 36)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			4.275226876908285e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.000819203966743718
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			46:(34, 40)
+			51:(40, 41)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.8187160731507292e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			51:(40, 41)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.8187160731507292e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			46:(34, 40)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.8187160731507292e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			52:(40, 48)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.8187160731507292e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			46:(34, 40)
+			51:(40, 41)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.8187160731507292e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			44:(33, 41)
+			46:(34, 40)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.8187160731507292e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			7
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			55:(44, 49)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			48:(36, 44)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			48:(36, 44)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			48:(36, 44)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			48:(36, 44)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			56:(44, 47)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			48:(36, 44)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			48:(36, 44)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			48:(36, 44)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			55:(44, 49)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			48:(36, 44)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			48:(36, 44)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			48:(36, 44)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			48:(36, 44)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			6
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			48:(36, 44)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			55:(44, 49)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			48:(36, 44)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			48:(36, 44)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			48:(36, 44)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			48:(36, 44)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			2.6434513717055872e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			5
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			48:(36, 44)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			48:(36, 44)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			48:(36, 44)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			48:(36, 44)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			43:(32, 36)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			4
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			43:(32, 36)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			43:(32, 36)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			41:(31, 36)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			41:(31, 36)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			33:(26, 36)
+			55:(44, 49)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			1.2132809519293871e-08
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			50:(39, 45)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			7.666622003494529e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			50:(39, 45)
+			58:(45, 47)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			7.145127418185938e-05
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			58:(45, 47)
+		</Edges>
+		<EdgeNum>
+			1
+		</EdgeNum>
+		<Probability>
+			0.001988485598355275
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			54:(43, 46)
+			57:(44, 46)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.00015584532879360616
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			56:(44, 47)
+			58:(45, 47)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			0.0009899977381717792
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			50:(39, 45)
+			56:(44, 47)
+			58:(45, 47)
+		</Edges>
+		<EdgeNum>
+			3
+		</EdgeNum>
+		<Probability>
+			7.596144498948629e-07
+		</Probability>
+	</PSRLG>	
+	<PSRLG>
+		<Edges>
+			50:(39, 45)
+			56:(44, 47)
+		</Edges>
+		<EdgeNum>
+			2
+		</EdgeNum>
+		<Probability>
+			7.596144498948629e-07
+		</Probability>
+	</PSRLG>
+</PSRLGList>
+</simulation>
